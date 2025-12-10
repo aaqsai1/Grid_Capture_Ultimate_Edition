@@ -1,4 +1,5 @@
 Grid Capture Ultimate Edition
+
 This project involves designing a high-performance web-based strategy game using the FastAPI framework. It serves as a testbed for Game Theory and Artificial Intelligence, featuring a 5x5 grid where players compete for territory. The project includes sophisticated AI agents utilizing the Minimax algorithm with Alpha-Beta Pruning and Predictive Analytics to challenge human players.
 Project Files.
 
